@@ -10,12 +10,12 @@
 
 [[main]]
   name = "SERVICES"
-  url = "services/"
+  url = "#services"
   weight = 20
   
 [[main]]
   name = "PROGRAMS"
-  url = "programs/"
+  url = "#programs"
   weight = 30
 
 [[main]]
