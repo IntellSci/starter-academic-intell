@@ -1,8 +1,8 @@
 ---
-title: Docs
+title: Services
 type: book  # Do not modify.
-toc: false
+toc: true
 ---
 
-Welcome to the _book_ template!
+Welcome to the SERVICES!
 
